@@ -14,7 +14,7 @@ public class Principal {
 
 	public static void main(String[] args) {
 
-		// JFrame
+		// JFrame 
 		JFrame formulario = new JFrame();
 		formulario.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		formulario.setSize(230, 130);
