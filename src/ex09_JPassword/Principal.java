@@ -12,6 +12,8 @@ public class Principal {
 		formulario.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		formulario.setLocationRelativeTo(null);
 		formulario.setLayout(null);
+		
+		// JTextField
 
 	}
 
