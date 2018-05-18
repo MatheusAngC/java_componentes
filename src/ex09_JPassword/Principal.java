@@ -13,7 +13,7 @@ public class Principal {
 		formulario.setLocationRelativeTo(null);
 		formulario.setLayout(null);
 		
-		// JTextField
+		// JTextField 
 		
 
 	}
