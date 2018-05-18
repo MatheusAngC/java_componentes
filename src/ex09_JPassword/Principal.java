@@ -14,6 +14,7 @@ public class Principal {
 		formulario.setLayout(null);
 		
 		// JTextField
+		
 
 	}
 
