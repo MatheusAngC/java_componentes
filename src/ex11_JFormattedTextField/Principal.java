@@ -11,7 +11,7 @@ public class Principal {
 	public static void main(String[] args) {
 
 		// JFrame
-		JFrame formulario = new JFrame("JTextArea");
+		JFrame formulario = new JFrame("JFormattedTextField");
 		formulario.setSize(280, 80);
 		formulario.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		formulario.setLocationRelativeTo(null);
