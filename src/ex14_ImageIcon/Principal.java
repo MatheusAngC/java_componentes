@@ -1,7 +1,6 @@
 package ex14_ImageIcon;
 
 import java.net.URL;
-import java.nio.channels.SelectableChannel;
 
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
